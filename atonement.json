@@ -1,6 +1,19 @@
 {
   "highscores": [
-    { "player": "Player1", "score": 2, "date": "2026-06-05" },
-    { "player": "Player2", "score": 1, "date": "2026-06-04" }
+    {
+      "player": "Player1",
+      "score": 2,
+      "date": "2026-06-05"
+    },
+    {
+      "player": "asdf",
+      "score": 2,
+      "date": "2026-06-05"
+    },
+    {
+      "player": "Player2",
+      "score": 1,
+      "date": "2026-06-04"
+    }
   ]
 }
