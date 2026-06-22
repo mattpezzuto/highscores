@@ -2,6 +2,11 @@
   "highscores": [
     {
       "player": "Oring",
+      "score": 6000,
+      "date": "2026-06-22"
+    },
+    {
+      "player": "Oring",
       "score": 3434,
       "date": "2026-06-22"
     },
