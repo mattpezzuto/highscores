@@ -1,6 +1,11 @@
 {
   "highscores": [
     {
+      "player": "Oring",
+      "score": 2000,
+      "date": "2026-06-22"
+    },
+    {
       "player": "Player1",
       "score": 2,
       "date": "2026-06-05"
