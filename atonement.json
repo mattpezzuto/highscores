@@ -7,6 +7,11 @@
     },
     {
       "player": "Oring",
+      "score": 4113,
+      "date": "2026-06-22"
+    },
+    {
+      "player": "Oring",
       "score": 4000,
       "date": "2026-06-22"
     },
@@ -42,11 +47,6 @@
     },
     {
       "player": "Player1",
-      "score": 2,
-      "date": "2026-06-05"
-    },
-    {
-      "player": "asdf",
       "score": 2,
       "date": "2026-06-05"
     }
