@@ -1,0 +1,64 @@
+{
+  "accountId": "oring",
+  "name": "Kalren Voss",
+  "title": "Jedi Knight",
+  "species": "Human",
+  "age": 28,
+  "gender": "Male",
+  "height": "1.85m",
+  "affiliation": "Jedi Order",
+  "lastDayTrained": "2026-06-22",
+  "lightsaber": {
+    "color": "Blue",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Standard Jedi",
+    "hiltMaterial": "Polished Durasteel with Electrum accents",
+    "length": "Single Blade",
+    "form": "Form V - Shien/Djem So",
+    "status": "Fully Operational"
+  },
+  "appearance": {
+    "hair": "Trimmed",
+    "eyes": "Clear",
+    "build": "Fit",
+    "clothing": "Traditional Jedi Robes",
+    "distinguishingFeatures": "None"
+  },
+  "stats": {
+    "strength": 75,
+    "agility": 82,
+    "defense": 70,
+    "forcePower": 88,
+    "lightsaberSkill": 92,
+    "wisdom": 85
+  },
+  "combatRecord": {
+    "wins": 47,
+    "losses": 12,
+    "draws": 5,
+    "totalDuels": 64
+  },
+  "ranking": {
+    "title": "Jedi Knight",
+    "achievementPoints": 12450,
+    "galacticRank": 87
+  },
+  "forceAbilities": [
+    "Force Push",
+    "Force Pull",
+    "Force Leap",
+    "Saber Throw"
+  ],
+  "combatStyle": "Balanced defensive counter-attacker.",
+  "background": "A former farm boy from Corellia discovered by the Jedi.",
+  "personality": {
+    "traits": [
+      "Honorable",
+      "Patient",
+      "Protective",
+      "Meditative"
+    ],
+    "quote": "The Force will guide my blade, but it is my will that strikes true."
+  },
+  "id": "jedi_oring_kalren_voss"
+}
