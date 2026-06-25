@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 2,
-    "losses": 9,
+    "losses": 10,
     "draws": 0,
-    "totalDuels": 11
+    "totalDuels": 12
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,11 +41,12 @@
   "agility": 24,
   "wisdom": 30,
   "wins": 2,
-  "losses": 9,
+  "losses": 10,
   "score": 127,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "zatt_young_36",
   "lightsaberForm": "Form VI: Niman",
+  "creds": 100,
   "isPlayerCustom": true
 }
