@@ -1,64 +1,51 @@
 {
+  "file": "academy/jedi_oring_kalren_voss.json",
   "accountId": "oring",
+  "id": "jedi_oring_kalren_voss",
   "name": "Kalren Voss",
   "title": "Jedi Knight",
   "species": "Human",
   "dob": "2023-01-01",
-  "gender": "Male",
-  "height": "1.85m",
-  "affiliation": "Jedi Order",
-  "lastDayTrained": "2026-06-22",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
   "lightsaber": {
-    "color": "Blue",
+    "color": "blue",
     "crystal": "Kyber Crystal",
-    "hiltStyle": "Standard Jedi",
-    "hiltMaterial": "Polished Durasteel with Electrum accents",
-    "length": "Single Blade",
-    "form": "Form V - Shien/Djem So",
+    "hiltStyle": "Academy Standard",
+    "form": "Form IV: Ataru",
     "status": "Fully Operational"
   },
-  "appearance": {
-    "hair": "Trimmed",
-    "eyes": "Clear",
-    "build": "Fit",
-    "clothing": "Traditional Jedi Robes",
-    "distinguishingFeatures": "None"
-  },
   "stats": {
-    "strength": 75,
-    "agility": 82,
-    "defense": 70,
     "forcePower": 88,
     "lightsaberSkill": 92,
-    "wisdom": 85
+    "agility": 82,
+    "wisdom": 85,
+    "strength": 70,
+    "defense": 70
   },
   "combatRecord": {
-    "wins": 47,
+    "wins": 48,
     "losses": 12,
-    "draws": 5,
-    "totalDuels": 64
+    "draws": 0,
+    "totalDuels": 60
   },
   "ranking": {
     "title": "Jedi Knight",
-    "achievementPoints": 12450,
-    "galacticRank": 87
+    "achievementPoints": 1067,
+    "galacticRank": 99
   },
-  "forceAbilities": [
-    "Force Push",
-    "Force Pull",
-    "Force Leap",
-    "Saber Throw"
-  ],
-  "combatStyle": "Balanced defensive counter-attacker.",
-  "background": "A former farm boy from Corellia discovered by the Jedi.",
-  "personality": {
-    "traits": [
-      "Honorable",
-      "Patient",
-      "Protective",
-      "Meditative"
-    ],
-    "quote": "The Force will guide my blade, but it is my will that strikes true."
-  },
-  "id": "jedi_oring_kalren_voss"
+  "forcePower": 88,
+  "lightsaberSkill": 92,
+  "agility": 82,
+  "wisdom": 85,
+  "wins": 48,
+  "losses": 12,
+  "score": 1067,
+  "rank": "Knight",
+  "lightsaberColor": "blue",
+  "avatarSeed": "oring",
+  "lightsaberForm": "Form IV: Ataru",
+  "isPlayerCustom": true
 }
