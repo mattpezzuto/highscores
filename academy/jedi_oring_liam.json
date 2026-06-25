@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_oring_liam.json",
-  "accountId": "Oring",
+  "accountId": "oring",
   "id": "jedi_oring_liam",
   "name": "Liam",
   "title": "Jedi Youngling",
@@ -14,7 +14,7 @@
     "color": "blue",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form I - Shii-Cho",
+    "form": "Form II: Makashi",
     "status": "Fully Operational"
   },
   "stats": {
@@ -26,25 +26,26 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 9,
+    "losses": 9,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 18
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 120,
+    "achievementPoints": 255,
     "galacticRank": 99
   },
   "forcePower": 40,
   "lightsaberSkill": 29,
   "agility": 26,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 0,
-  "score": 120,
+  "wins": 9,
+  "losses": 9,
+  "score": 255,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782233169236_Liam",
+  "lightsaberForm": "Form II: Makashi",
   "isPlayerCustom": true
 }
