@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 47,
-    "lightsaberSkill": 27,
-    "agility": 31,
-    "wisdom": 28,
+    "forcePower": 49,
+    "lightsaberSkill": 29,
+    "agility": 33,
+    "wisdom": 30,
     "strength": 70,
     "defense": 70
   },
@@ -33,16 +33,16 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 238,
+    "achievementPoints": 246,
     "galacticRank": 99
   },
-  "forcePower": 47,
-  "lightsaberSkill": 27,
-  "agility": 31,
-  "wisdom": 28,
+  "forcePower": 49,
+  "lightsaberSkill": 29,
+  "agility": 33,
+  "wisdom": 30,
   "wins": 7,
   "losses": 5,
-  "score": 238,
+  "score": 246,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
