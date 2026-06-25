@@ -5,7 +5,7 @@
   "name": "Erza",
   "title": "Jedi Youngling",
   "species": "Human",
-  "dob": "2024-06-22",
+  "dob": "2026-06-25",
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 31,
+    "forcePower": 32,
     "lightsaberSkill": 42,
     "agility": 27,
-    "wisdom": 35,
+    "wisdom": 40,
     "strength": 70,
     "defense": 70
   },
@@ -33,16 +33,16 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 285,
+    "achievementPoints": 291,
     "galacticRank": 99
   },
-  "forcePower": 31,
+  "forcePower": 32,
   "lightsaberSkill": 42,
   "agility": 27,
-  "wisdom": 35,
+  "wisdom": 40,
   "wins": 10,
   "losses": 24,
-  "score": 285,
+  "score": 291,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
