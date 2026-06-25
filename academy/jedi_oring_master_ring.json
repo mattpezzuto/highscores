@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 6,
-    "losses": 8,
+    "wins": 7,
+    "losses": 0,
     "draws": 0,
-    "totalDuels": 14
+    "totalDuels": 7
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 223,
+    "achievementPoints": 238,
     "galacticRank": 99
   },
   "forcePower": 47,
   "lightsaberSkill": 27,
   "agility": 31,
   "wisdom": 28,
-  "wins": 6,
-  "losses": 8,
-  "score": 223,
+  "wins": 7,
+  "losses": 0,
+  "score": 238,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
