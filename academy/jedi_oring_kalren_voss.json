@@ -3,7 +3,7 @@
   "accountId": "oring",
   "id": "jedi_oring_kalren_voss",
   "name": "Kalren Voss",
-  "title": "Jedi Knight",
+  "title": "Jedi Master",
   "species": "Human",
   "dob": "2023-01-01",
   "gender": "Any",
@@ -21,7 +21,7 @@
     "forcePower": 88,
     "lightsaberSkill": 92,
     "agility": 82,
-    "wisdom": 85,
+    "wisdom": 86,
     "strength": 70,
     "defense": 70
   },
@@ -32,20 +32,21 @@
     "totalDuels": 61
   },
   "ranking": {
-    "title": "Jedi Knight",
-    "achievementPoints": 1082,
+    "title": "Jedi Master",
+    "achievementPoints": 1083,
     "galacticRank": 99
   },
   "forcePower": 88,
   "lightsaberSkill": 92,
   "agility": 82,
-  "wisdom": 85,
+  "wisdom": 86,
   "wins": 49,
   "losses": 12,
-  "score": 1082,
-  "rank": "Knight",
+  "score": 1083,
+  "rank": "Master",
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
+  "creds": 250,
   "isPlayerCustom": true
 }
