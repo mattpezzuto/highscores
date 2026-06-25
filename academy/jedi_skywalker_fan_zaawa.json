@@ -1,0 +1,66 @@
+{
+  "accountId": "skywalker_fan",
+  "name": "Zaawa",
+  "title": "Jedi Guardian",
+  "species": "Unknown",
+  "dob": "2024-05-08",
+  "gender": "Unknown",
+  "height": "1.78m",
+  "affiliation": "Jedi Order",
+  "lastDayTrained": "2026-06-25",
+  "lightsaber": {
+    "color": "Green",
+    "crystal": "Ilum crystal",
+    "hiltStyle": "Curved",
+    "hiltMaterial": "Chromium shroud with rubberized grip",
+    "length": "Single Blade",
+    "form": "Form II - Makashi",
+    "status": "Fully Operational"
+  },
+  "appearance": {
+    "hair": "Trimmed",
+    "eyes": "Clear",
+    "build": "Fit",
+    "clothing": "Traditional Jedi Robes",
+    "distinguishingFeatures": "None"
+  },
+  "stats": {
+    "strength": 65,
+    "agility": 39,
+    "defense": 75,
+    "forcePower": 67,
+    "lightsaberSkill": 33,
+    "wisdom": 42
+  },
+  "combatRecord": {
+    "wins": 52,
+    "losses": 8,
+    "draws": 3,
+    "totalDuels": 63
+  },
+  "ranking": {
+    "title": "Jedi Guardian",
+    "achievementPoints": 14200,
+    "galacticRank": 62
+  },
+  "forceAbilities": [
+    "Force Speed",
+    "Force Jump",
+    "Saber Throw",
+    "Force Sense",
+    "Absorb Energy",
+    "Deflection"
+  ],
+  "combatStyle": "Precision duelist specializing in single-target lightsaber combat. Fluid fencing steps and rapid parry-riposte rhythms.",
+  "background": "Discovered on Ryloth during an investigation into local syndicate activities. Ayla proved an exceptional physical prodigy, mastering complex Makashi footwork early in her training.",
+  "personality": {
+    "traits": [
+      "Disciplined",
+      "Confident",
+      "Swift",
+      "Bold"
+    ],
+    "quote": "My focus is unwavering, my speed absolute."
+  },
+  "id": "jedi_skywalker_fan_zaawa"
+}
