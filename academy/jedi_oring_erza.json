@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 32,
-    "lightsaberSkill": 46,
-    "agility": 28,
-    "wisdom": 40,
+    "forcePower": 34,
+    "lightsaberSkill": 48,
+    "agility": 30,
+    "wisdom": 42,
     "strength": 70,
     "defense": 70
   },
@@ -33,16 +33,16 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 296,
+    "achievementPoints": 304,
     "galacticRank": 99
   },
-  "forcePower": 32,
-  "lightsaberSkill": 46,
-  "agility": 28,
-  "wisdom": 40,
+  "forcePower": 34,
+  "lightsaberSkill": 48,
+  "agility": 30,
+  "wisdom": 42,
   "wins": 10,
   "losses": 28,
-  "score": 296,
+  "score": 304,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
