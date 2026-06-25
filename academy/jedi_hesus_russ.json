@@ -14,7 +14,7 @@
     "color": "green",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form I: Shii-Cho",
+    "form": "Form II: Makashi",
     "status": "Fully Operational"
   },
   "stats": {
@@ -45,7 +45,7 @@
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "green",
-  "avatarSeed": "jedi_1782355853323_Russ",
-  "lightsaberForm": "Form I: Shii-Cho",
+  "avatarSeed": "jedi_1782355879296_Russ",
+  "lightsaberForm": "Form II: Makashi",
   "isPlayerCustom": true
 }
