@@ -1,0 +1,51 @@
+{
+  "file": "academy/f_zatt.json",
+  "accountId": "temple_master",
+  "id": "f_zatt",
+  "name": "Zatt",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "dob": "2026-06-23",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
+  "lightsaber": {
+    "color": "green",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form VI: Niman",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 22,
+    "lightsaberSkill": 21,
+    "agility": 24,
+    "wisdom": 30,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 2,
+    "losses": 5,
+    "draws": 0,
+    "totalDuels": 7
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 127,
+    "galacticRank": 99
+  },
+  "forcePower": 22,
+  "lightsaberSkill": 21,
+  "agility": 24,
+  "wisdom": 30,
+  "wins": 2,
+  "losses": 5,
+  "score": 127,
+  "rank": "Youngling",
+  "lightsaberColor": "green",
+  "avatarSeed": "zatt_young_36",
+  "lightsaberForm": "Form VI: Niman",
+  "isPlayerCustom": true
+}
