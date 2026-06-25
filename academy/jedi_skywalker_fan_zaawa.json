@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 53,
+    "wins": 54,
     "losses": 8,
     "draws": 0,
-    "totalDuels": 61
+    "totalDuels": 62
   },
   "ranking": {
     "title": "Jedi Knight",
-    "achievementPoints": 976,
+    "achievementPoints": 991,
     "galacticRank": 99
   },
   "forcePower": 67,
   "lightsaberSkill": 33,
   "agility": 39,
   "wisdom": 42,
-  "wins": 53,
+  "wins": 54,
   "losses": 8,
-  "score": 976,
+  "score": 991,
   "rank": "Knight",
   "lightsaberColor": "green",
   "avatarSeed": "skywalker_fan",
