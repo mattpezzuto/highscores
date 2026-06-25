@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_oring_master_ring.json",
-  "accountId": "Oring",
+  "accountId": "oring",
   "id": "jedi_oring_master_ring",
   "name": "Master Ring",
   "title": "Jedi Youngling",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 6,
+    "losses": 8,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 14
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 133,
+    "achievementPoints": 223,
     "galacticRank": 99
   },
   "forcePower": 47,
   "lightsaberSkill": 27,
   "agility": 31,
   "wisdom": 28,
-  "wins": 0,
-  "losses": 0,
-  "score": 133,
+  "wins": 6,
+  "losses": 8,
+  "score": 223,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
