@@ -20,33 +20,33 @@
   "stats": {
     "forcePower": 34,
     "lightsaberSkill": 48,
-    "agility": 30,
+    "agility": 32,
     "wisdom": 42,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 10,
+    "wins": 11,
     "losses": 29,
     "draws": 0,
-    "totalDuels": 39
+    "totalDuels": 40
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 304,
+    "achievementPoints": 321,
     "galacticRank": 99
   },
   "forcePower": 34,
   "lightsaberSkill": 48,
-  "agility": 30,
+  "agility": 32,
   "wisdom": 42,
-  "wins": 10,
+  "wins": 11,
   "losses": 29,
-  "score": 304,
+  "score": 321,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 100,
+  "creds": 90,
   "isPlayerCustom": true
 }
