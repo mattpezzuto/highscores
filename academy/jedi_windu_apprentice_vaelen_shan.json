@@ -1,67 +1,51 @@
 {
-  "accountId": "windu_apprentice",
+  "file": "academy/jedi_windu_apprentice_vaelen_shan.json",
+  "accountId": "windu",
+  "id": "jedi_windu_apprentice_vaelen_shan",
   "name": "Vaelen Shan",
-  "title": "Youngling",
-  "species": "Mirialan",
+  "title": "Jedi Youngling",
+  "species": "Human",
   "dob": "2020-05-08",
-  "gender": "Male",
-  "height": "1.82m",
-  "affiliation": "Jedi Order",
-  "lastDayTrained": "2026-06-23",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
   "lightsaber": {
-    "color": "Purple",
-    "crystal": "Adegan crystal",
-    "hiltStyle": "Crossguard",
-    "hiltMaterial": "Bronzium casing, heavy emitter ring",
-    "length": "Single Blade / Heavy",
-    "form": "Form VI - Niman",
+    "color": "purple",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form III: Soresu",
     "status": "Fully Operational"
   },
-  "appearance": {
-    "hair": "Trimmed",
-    "eyes": "Clear",
-    "build": "Fit",
-    "clothing": "Traditional Jedi Robes",
-    "distinguishingFeatures": "None"
-  },
   "stats": {
-    "strength": 70,
-    "agility": 23,
-    "defense": 80,
     "forcePower": 33,
     "lightsaberSkill": 28,
-    "wisdom": 34
+    "agility": 23,
+    "wisdom": 34,
+    "strength": 70,
+    "defense": 70
   },
   "combatRecord": {
     "wins": 30,
-    "losses": 6,
-    "draws": 18,
-    "totalDuels": 54
+    "losses": 7,
+    "draws": 0,
+    "totalDuels": 37
   },
   "ranking": {
-    "title": "Jedi Consular",
-    "achievementPoints": 16800,
-    "galacticRank": 41
+    "title": "Jedi Youngling",
+    "achievementPoints": 568,
+    "galacticRank": 99
   },
-  "forceAbilities": [
-    "Force Wave",
-    "Force Barrier",
-    "Force Valour",
-    "Telekinesis",
-    "Force Heal",
-    "Psychometry",
-    "Stasis"
-  ],
-  "combatStyle": "Combines tactical Force telekinesis seamlessly with defensive blade maneuvers. Prefers diplomacy but will end conflicts decisively with kinetic projection.",
-  "background": "Born into a monastic tribe on Mirial, Vaelen's incredible telekinetic sensitivity was noted before he could walk. He is a primary archivist and mediator for the Order.",
-  "personality": {
-    "traits": [
-      "Serene",
-      "Wise",
-      "Empathetic",
-      "Philosophical"
-    ],
-    "quote": "Knowledge is the greatest shield; the Force is the ultimate truth."
-  },
-  "id": "jedi_windu_apprentice_vaelen_shan"
+  "forcePower": 33,
+  "lightsaberSkill": 28,
+  "agility": 23,
+  "wisdom": 34,
+  "wins": 30,
+  "losses": 7,
+  "score": 568,
+  "rank": "Youngling",
+  "lightsaberColor": "purple",
+  "avatarSeed": "windu_apprentice",
+  "lightsaberForm": "Form III: Soresu",
+  "isPlayerCustom": true
 }
