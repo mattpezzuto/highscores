@@ -1,0 +1,50 @@
+{
+  "file": "academy/jedi_oring_liam.json",
+  "accountId": "Oring",
+  "id": "jedi_oring_liam",
+  "name": "Liam",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "dob": "2026-06-25",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
+  "lightsaber": {
+    "color": "blue",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form I - Shii-Cho",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 40,
+    "lightsaberSkill": 29,
+    "agility": 26,
+    "wisdom": 25,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "totalDuels": 0
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 120,
+    "galacticRank": 99
+  },
+  "forcePower": 40,
+  "lightsaberSkill": 29,
+  "agility": 26,
+  "wisdom": 25,
+  "wins": 0,
+  "losses": 0,
+  "score": 120,
+  "rank": "Youngling",
+  "lightsaberColor": "blue",
+  "avatarSeed": "jedi_1782233169236_Liam",
+  "isPlayerCustom": true
+}
