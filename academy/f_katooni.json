@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 4,
-    "losses": 3,
+    "losses": 4,
     "draws": 0,
-    "totalDuels": 7
+    "totalDuels": 8
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,7 +41,7 @@
   "agility": 28,
   "wisdom": 25,
   "wins": 4,
-  "losses": 3,
+  "losses": 4,
   "score": 165,
   "rank": "Youngling",
   "lightsaberColor": "green",
