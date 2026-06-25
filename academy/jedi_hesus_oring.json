@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_oring.json",
-  "accountId": "Hesus",
+  "accountId": "hesus",
   "id": "jedi_hesus_oring",
   "name": "oring",
   "title": "Jedi Youngling",
@@ -19,30 +19,30 @@
   },
   "stats": {
     "forcePower": 25,
-    "lightsaberSkill": 42,
+    "lightsaberSkill": 40,
     "agility": 25,
     "wisdom": 25,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 1,
-    "losses": 0,
+    "wins": 7,
+    "losses": 9,
     "draws": 0,
-    "totalDuels": 1
+    "totalDuels": 16
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 132,
+    "achievementPoints": 220,
     "galacticRank": 99
   },
   "forcePower": 25,
-  "lightsaberSkill": 42,
+  "lightsaberSkill": 40,
   "agility": 25,
   "wisdom": 25,
-  "wins": 1,
-  "losses": 0,
-  "score": 132,
+  "wins": 7,
+  "losses": 9,
+  "score": 220,
   "rank": "Youngling",
   "lightsaberColor": "cyan",
   "avatarSeed": "jedi_1782354161604_oring",
