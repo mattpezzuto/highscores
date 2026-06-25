@@ -18,7 +18,7 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 37,
+    "forcePower": 39,
     "lightsaberSkill": 62,
     "agility": 52,
     "wisdom": 35,
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 33,
+    "wins": 34,
     "losses": 15,
     "draws": 0,
-    "totalDuels": 48
+    "totalDuels": 49
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 681,
+    "achievementPoints": 698,
     "galacticRank": 99
   },
-  "forcePower": 37,
+  "forcePower": 39,
   "lightsaberSkill": 62,
   "agility": 52,
   "wisdom": 35,
-  "wins": 33,
+  "wins": 34,
   "losses": 15,
-  "score": 681,
+  "score": 698,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
