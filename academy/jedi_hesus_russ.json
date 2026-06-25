@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_russ.json",
-  "accountId": "Hesus",
+  "accountId": "hesus",
   "id": "jedi_hesus_russ",
   "name": "Russ",
   "title": "Jedi Youngling",
@@ -21,7 +21,7 @@
     "forcePower": 31,
     "lightsaberSkill": 62,
     "agility": 46,
-    "wisdom": 33,
+    "wisdom": 31,
     "strength": 70,
     "defense": 70
   },
@@ -33,16 +33,16 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 562,
+    "achievementPoints": 560,
     "galacticRank": 99
   },
   "forcePower": 31,
   "lightsaberSkill": 62,
   "agility": 46,
-  "wisdom": 33,
+  "wisdom": 31,
   "wins": 26,
   "losses": 11,
-  "score": 562,
+  "score": 560,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
