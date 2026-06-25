@@ -1,0 +1,50 @@
+{
+  "file": "academy/jedi_oring_erza.json",
+  "accountId": "Oring",
+  "id": "jedi_oring_erza",
+  "name": "Erza",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "age": 14,
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
+  "lightsaber": {
+    "color": "blue",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form I - Shii-Cho",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 31,
+    "lightsaberSkill": 42,
+    "agility": 27,
+    "wisdom": 35,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 10,
+    "losses": 24,
+    "draws": 0,
+    "totalDuels": 34
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 285,
+    "galacticRank": 99
+  },
+  "forcePower": 31,
+  "lightsaberSkill": 42,
+  "agility": 27,
+  "wisdom": 35,
+  "wins": 10,
+  "losses": 24,
+  "score": 285,
+  "rank": "Youngling",
+  "lightsaberColor": "blue",
+  "avatarSeed": "jedi_1782232694681_Erza",
+  "isPlayerCustom": true
+}
