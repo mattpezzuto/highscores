@@ -1,0 +1,51 @@
+{
+  "file": "academy/f_katooni.json",
+  "accountId": "temple_master",
+  "id": "f_katooni",
+  "name": "Katooni",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "dob": "2026-06-23",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-06-25",
+  "lightsaber": {
+    "color": "green",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form III: Soresu",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 26,
+    "lightsaberSkill": 26,
+    "agility": 28,
+    "wisdom": 25,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "totalDuels": 6
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 165,
+    "galacticRank": 99
+  },
+  "forcePower": 26,
+  "lightsaberSkill": 26,
+  "agility": 28,
+  "wisdom": 25,
+  "wins": 4,
+  "losses": 2,
+  "score": 165,
+  "rank": "Youngling",
+  "lightsaberColor": "green",
+  "avatarSeed": "katooni_young_32",
+  "lightsaberForm": "Form III: Soresu",
+  "isPlayerCustom": true
+}
