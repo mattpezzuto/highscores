@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-25",
+  "lastDayTrained": "2026-06-28",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -21,7 +21,7 @@
     "forcePower": 40,
     "lightsaberSkill": 29,
     "agility": 26,
-    "wisdom": 25,
+    "wisdom": 26,
     "strength": 70,
     "defense": 70
   },
@@ -33,19 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 255,
+    "achievementPoints": 256,
     "galacticRank": 99
   },
   "forcePower": 40,
   "lightsaberSkill": 29,
   "agility": 26,
-  "wisdom": 25,
+  "wisdom": 26,
   "wins": 9,
   "losses": 12,
-  "score": 255,
+  "score": 256,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782233169236_Liam",
   "lightsaberForm": "Form II: Makashi",
+  "creds": 250,
+  "questProgress": [],
   "isPlayerCustom": true
 }
