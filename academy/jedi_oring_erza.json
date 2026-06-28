@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 12,
-    "losses": 30,
+    "wins": 13,
+    "losses": 29,
     "draws": 0,
     "totalDuels": 42
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 338,
+    "achievementPoints": 353,
     "galacticRank": 99
   },
   "forcePower": 34,
   "lightsaberSkill": 48,
   "agility": 32,
   "wisdom": 44,
-  "wins": 12,
-  "losses": 30,
-  "score": 338,
+  "wins": 13,
+  "losses": 29,
+  "score": 353,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
