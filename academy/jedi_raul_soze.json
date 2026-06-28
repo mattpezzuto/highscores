@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_raul_soze.json",
-  "accountId": "raul",
+  "accountId": "Raul",
   "id": "jedi_raul_soze",
   "name": "Soze",
   "title": "Jedi Youngling",
@@ -18,36 +18,38 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 27,
-    "lightsaberSkill": 27,
-    "agility": 27,
+    "forcePower": 25,
+    "lightsaberSkill": 25,
+    "agility": 25,
     "wisdom": 42,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 2,
-    "losses": 5,
+    "wins": 1,
+    "losses": 0,
     "draws": 0,
-    "totalDuels": 7
+    "totalDuels": 1
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 153,
+    "achievementPoints": 132,
     "galacticRank": 99
   },
-  "forcePower": 27,
-  "lightsaberSkill": 27,
-  "agility": 27,
+  "forcePower": 25,
+  "lightsaberSkill": 25,
+  "agility": 25,
   "wisdom": 42,
-  "wins": 2,
-  "losses": 5,
-  "score": 153,
+  "wins": 1,
+  "losses": 0,
+  "score": 132,
   "rank": "Youngling",
   "lightsaberColor": "cyan",
   "avatarSeed": "jedi_1782683572779_Soze",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 126,
-  "questProgress": [],
+  "creds": 65,
+  "questProgress": [
+    "quest1-c"
+  ],
   "isPlayerCustom": true
 }
