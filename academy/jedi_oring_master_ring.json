@@ -47,7 +47,9 @@
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
   "lightsaberForm": "Form III: Soresu",
-  "creds": 250,
-  "questProgress": [],
+  "creds": 225,
+  "questProgress": [
+    "quest1-a"
+  ],
   "isPlayerCustom": true
 }
