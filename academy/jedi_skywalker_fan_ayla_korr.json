@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-25",
+  "lastDayTrained": "2026-06-28",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 54,
-    "losses": 8,
+    "losses": 9,
     "draws": 0,
-    "totalDuels": 62
+    "totalDuels": 63
   },
   "ranking": {
     "title": "Jedi Knight",
@@ -41,11 +41,13 @@
   "agility": 95,
   "wisdom": 78,
   "wins": 54,
-  "losses": 8,
+  "losses": 9,
   "score": 1159,
   "rank": "Knight",
   "lightsaberColor": "green",
   "avatarSeed": "skywalker_fan",
   "lightsaberForm": "Form III: Soresu",
+  "creds": 100,
+  "questProgress": [],
   "isPlayerCustom": true
 }
