@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 49,
-    "lightsaberSkill": 29,
+    "lightsaberSkill": 31,
     "agility": 33,
     "wisdom": 31,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 7,
+    "wins": 8,
     "losses": 5,
     "draws": 0,
-    "totalDuels": 12
+    "totalDuels": 13
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 247,
+    "achievementPoints": 264,
     "galacticRank": 99
   },
   "forcePower": 49,
-  "lightsaberSkill": 29,
+  "lightsaberSkill": 31,
   "agility": 33,
   "wisdom": 31,
-  "wins": 7,
+  "wins": 8,
   "losses": 5,
-  "score": 247,
+  "score": 264,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
   "lightsaberForm": "Form III: Soresu",
-  "creds": 225,
+  "creds": 215,
   "questProgress": [
     "quest1-a"
   ],
