@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-25",
+  "lastDayTrained": "2026-06-28",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -47,6 +47,9 @@
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 250,
+  "creds": 225,
+  "questProgress": [
+    "quest1-a"
+  ],
   "isPlayerCustom": true
 }
