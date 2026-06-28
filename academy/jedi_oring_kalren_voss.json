@@ -18,7 +18,7 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 88,
+    "forcePower": 90,
     "lightsaberSkill": 94,
     "agility": 82,
     "wisdom": 86,
@@ -26,28 +26,28 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 50,
+    "wins": 51,
     "losses": 12,
     "draws": 0,
-    "totalDuels": 62
+    "totalDuels": 63
   },
   "ranking": {
     "title": "Jedi Master",
-    "achievementPoints": 1100,
+    "achievementPoints": 1117,
     "galacticRank": 99
   },
-  "forcePower": 88,
+  "forcePower": 90,
   "lightsaberSkill": 94,
   "agility": 82,
   "wisdom": 86,
-  "wins": 50,
+  "wins": 51,
   "losses": 12,
-  "score": 1100,
+  "score": 1117,
   "rank": "Master",
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 165,
+  "creds": 155,
   "questProgress": [
     "quest1-a"
   ],
