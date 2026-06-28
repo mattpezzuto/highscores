@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 9,
-    "losses": 12,
+    "losses": 13,
     "draws": 0,
-    "totalDuels": 21
+    "totalDuels": 22
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,13 +41,13 @@
   "agility": 26,
   "wisdom": 26,
   "wins": 9,
-  "losses": 12,
+  "losses": 13,
   "score": 256,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782233169236_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 200,
+  "creds": 190,
   "questProgress": [
     "quest1-b"
   ],
