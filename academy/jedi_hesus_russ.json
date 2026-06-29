@@ -47,7 +47,9 @@
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 90,
-  "questProgress": [],
+  "creds": 65,
+  "questProgress": [
+    "quest1-c"
+  ],
   "isPlayerCustom": true
 }
