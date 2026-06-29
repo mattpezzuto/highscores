@@ -1,9 +1,9 @@
 {
   "file": "academy/jedi_hesus_russ.json",
-  "accountId": "hesus",
+  "accountId": "Hesus",
   "id": "jedi_hesus_russ",
   "name": "Russ",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-06-25",
   "gender": "Any",
@@ -21,7 +21,7 @@
     "forcePower": 41,
     "lightsaberSkill": 64,
     "agility": 54,
-    "wisdom": 35,
+    "wisdom": 36,
     "strength": 70,
     "defense": 70
   },
@@ -32,22 +32,22 @@
     "totalDuels": 54
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 749,
+    "title": "Jedi Padawan",
+    "achievementPoints": 750,
     "galacticRank": 99
   },
   "forcePower": 41,
   "lightsaberSkill": 64,
   "agility": 54,
-  "wisdom": 35,
+  "wisdom": 36,
   "wins": 37,
   "losses": 17,
-  "score": 749,
-  "rank": "Youngling",
+  "score": 750,
+  "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 0,
+  "creds": 150,
   "questProgress": [
     "quest1-a"
   ],
