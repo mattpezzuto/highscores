@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_russ.json",
-  "accountId": "Hesus",
+  "accountId": "hesus",
   "id": "jedi_hesus_russ",
   "name": "Russ",
   "title": "Jedi Padawan",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 37,
+    "wins": 38,
     "losses": 19,
     "draws": 0,
-    "totalDuels": 56
+    "totalDuels": 57
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 750,
+    "achievementPoints": 765,
     "galacticRank": 99
   },
   "forcePower": 41,
   "lightsaberSkill": 64,
   "agility": 54,
   "wisdom": 36,
-  "wins": 37,
+  "wins": 38,
   "losses": 19,
-  "score": 750,
+  "score": 765,
   "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
