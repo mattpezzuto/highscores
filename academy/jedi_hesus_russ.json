@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-25",
+  "lastDayTrained": "2026-06-29",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -18,7 +18,7 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 39,
+    "forcePower": 41,
     "lightsaberSkill": 62,
     "agility": 52,
     "wisdom": 35,
@@ -26,26 +26,28 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 34,
+    "wins": 35,
     "losses": 15,
     "draws": 0,
-    "totalDuels": 49
+    "totalDuels": 50
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 698,
+    "achievementPoints": 715,
     "galacticRank": 99
   },
-  "forcePower": 39,
+  "forcePower": 41,
   "lightsaberSkill": 62,
   "agility": 52,
   "wisdom": 35,
-  "wins": 34,
+  "wins": 35,
   "losses": 15,
-  "score": 698,
+  "score": 715,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
+  "creds": 90,
+  "questProgress": [],
   "isPlayerCustom": true
 }
