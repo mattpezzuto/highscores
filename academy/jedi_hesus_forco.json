@@ -47,7 +47,9 @@
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782697331530_Forco",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 124,
-  "questProgress": [],
+  "creds": 99,
+  "questProgress": [
+    "quest1-b"
+  ],
   "isPlayerCustom": true
 }
