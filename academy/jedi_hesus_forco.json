@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_forco.json",
-  "accountId": "hesus",
+  "accountId": "Hesus",
   "id": "jedi_hesus_forco",
   "name": "Forco",
   "title": "Jedi Youngling",
@@ -26,28 +26,30 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 9,
-    "losses": 3,
+    "wins": 0,
+    "losses": 1,
     "draws": 0,
-    "totalDuels": 12
+    "totalDuels": 1
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 255,
+    "achievementPoints": 120,
     "galacticRank": 99
   },
   "forcePower": 44,
   "lightsaberSkill": 25,
   "agility": 25,
   "wisdom": 26,
-  "wins": 9,
-  "losses": 3,
-  "score": 255,
+  "wins": 0,
+  "losses": 1,
+  "score": 120,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782697331530_Forco",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 104,
-  "questProgress": [],
+  "creds": 89,
+  "questProgress": [
+    "quest1-b"
+  ],
   "isPlayerCustom": true
 }
