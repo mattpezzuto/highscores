@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 37,
-    "losses": 18,
+    "losses": 19,
     "draws": 0,
-    "totalDuels": 55
+    "totalDuels": 56
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 54,
   "wisdom": 36,
   "wins": 37,
-  "losses": 18,
+  "losses": 19,
   "score": 750,
   "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 140,
+  "creds": 130,
   "questProgress": [
     "quest1-a"
   ],
