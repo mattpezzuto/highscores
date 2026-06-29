@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 46,
-    "lightsaberSkill": 25,
+    "lightsaberSkill": 27,
     "agility": 25,
     "wisdom": 26,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 1,
+    "wins": 2,
     "losses": 1,
     "draws": 0,
-    "totalDuels": 2
+    "totalDuels": 3
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 137,
+    "achievementPoints": 154,
     "galacticRank": 99
   },
   "forcePower": 46,
-  "lightsaberSkill": 25,
+  "lightsaberSkill": 27,
   "agility": 25,
   "wisdom": 26,
-  "wins": 1,
+  "wins": 2,
   "losses": 1,
-  "score": 137,
+  "score": 154,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782697331530_Forco",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 79,
+  "creds": 69,
   "questProgress": [
     "quest1-b"
   ],
