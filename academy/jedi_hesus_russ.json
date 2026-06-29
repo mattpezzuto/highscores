@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 36,
-    "losses": 15,
+    "losses": 16,
     "draws": 0,
-    "totalDuels": 51
+    "totalDuels": 52
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,13 +41,13 @@
   "agility": 54,
   "wisdom": 35,
   "wins": 36,
-  "losses": 15,
+  "losses": 16,
   "score": 732,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 30,
+  "creds": 20,
   "questProgress": [
     "quest1-a"
   ],
