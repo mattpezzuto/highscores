@@ -47,10 +47,10 @@
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 70,
+  "creds": 45,
   "questProgress": [
     "quest1-a"
   ],
-  "quest1Count": 1,
+  "quest1Count": 2,
   "isPlayerCustom": true
 }
