@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-28",
+  "lastDayTrained": "2026-07-02",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 13,
+    "wins": 14,
     "losses": 29,
     "draws": 0,
-    "totalDuels": 42
+    "totalDuels": 43
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 353,
+    "achievementPoints": 368,
     "galacticRank": 99
   },
   "forcePower": 34,
   "lightsaberSkill": 48,
   "agility": 32,
   "wisdom": 44,
-  "wins": 13,
+  "wins": 14,
   "losses": 29,
-  "score": 353,
+  "score": 368,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
