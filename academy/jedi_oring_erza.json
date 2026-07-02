@@ -47,10 +47,10 @@
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 55,
+  "creds": 30,
   "questProgress": [
     "quest1-b"
   ],
-  "quest1Count": 1,
+  "quest1Count": 2,
   "isPlayerCustom": true
 }
