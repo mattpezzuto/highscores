@@ -21,7 +21,7 @@
     "forcePower": 92,
     "lightsaberSkill": 94,
     "agility": 82,
-    "wisdom": 87,
+    "wisdom": 88,
     "strength": 70,
     "defense": 70
   },
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Master",
-    "achievementPoints": 1150,
+    "achievementPoints": 1151,
     "galacticRank": 99
   },
   "forcePower": 92,
   "lightsaberSkill": 94,
   "agility": 82,
-  "wisdom": 87,
+  "wisdom": 88,
   "wins": 53,
   "losses": 13,
-  "score": 1150,
+  "score": 1151,
   "rank": "Master",
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 170,
+  "creds": 320,
   "questProgress": [
     "quest1-a"
   ],
