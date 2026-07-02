@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-28",
+  "lastDayTrained": "2026-07-02",
   "lightsaber": {
     "color": "yellow",
     "crystal": "Kyber Crystal",
@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 51,
-    "lightsaberSkill": 31,
+    "lightsaberSkill": 33,
     "agility": 33,
     "wisdom": 36,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 14,
+    "wins": 15,
     "losses": 5,
     "draws": 0,
-    "totalDuels": 19
+    "totalDuels": 20
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 361,
+    "achievementPoints": 378,
     "galacticRank": 99
   },
   "forcePower": 51,
-  "lightsaberSkill": 31,
+  "lightsaberSkill": 33,
   "agility": 33,
   "wisdom": 36,
-  "wins": 14,
+  "wins": 15,
   "losses": 5,
-  "score": 361,
+  "score": 378,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
   "lightsaberForm": "Form III: Soresu",
-  "creds": 310,
+  "creds": 300,
   "questProgress": [
     "quest1-c"
   ],
