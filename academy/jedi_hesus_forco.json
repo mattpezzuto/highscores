@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_forco.json",
-  "accountId": "Hesus",
+  "accountId": "hesus",
   "id": "jedi_hesus_forco",
   "name": "Forco",
   "title": "Jedi Youngling",
@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-29",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "yellow",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 2,
-    "losses": 3,
+    "losses": 4,
     "draws": 0,
-    "totalDuels": 5
+    "totalDuels": 6
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,13 +41,13 @@
   "agility": 25,
   "wisdom": 26,
   "wins": 2,
-  "losses": 3,
+  "losses": 4,
   "score": 154,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782697331530_Forco",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 49,
+  "creds": 39,
   "questProgress": [
     "quest1-b"
   ],
