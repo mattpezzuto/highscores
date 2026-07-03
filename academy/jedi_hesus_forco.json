@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 2,
-    "losses": 5,
+    "losses": 6,
     "draws": 0,
-    "totalDuels": 7
+    "totalDuels": 8
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,13 +41,13 @@
   "agility": 25,
   "wisdom": 26,
   "wins": 2,
-  "losses": 5,
+  "losses": 6,
   "score": 154,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782697331530_Forco",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 39,
+  "creds": 29,
   "questProgress": [
     "quest1-b"
   ],
