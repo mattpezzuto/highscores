@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-29",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 4,
+    "wins": 5,
     "losses": 12,
     "draws": 0,
-    "totalDuels": 16
+    "totalDuels": 17
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 157,
+    "achievementPoints": 172,
     "galacticRank": 99
   },
   "forcePower": 22,
   "lightsaberSkill": 21,
   "agility": 24,
   "wisdom": 30,
-  "wins": 4,
+  "wins": 5,
   "losses": 12,
-  "score": 157,
+  "score": 172,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "zatt_young_36",
