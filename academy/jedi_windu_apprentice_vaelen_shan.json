@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-25",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "purple",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 30,
-    "losses": 10,
+    "losses": 11,
     "draws": 0,
-    "totalDuels": 40
+    "totalDuels": 41
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,11 +41,13 @@
   "agility": 23,
   "wisdom": 34,
   "wins": 30,
-  "losses": 10,
+  "losses": 11,
   "score": 568,
   "rank": "Youngling",
   "lightsaberColor": "purple",
   "avatarSeed": "windu_apprentice",
   "lightsaberForm": "Form III: Soresu",
+  "creds": 100,
+  "questProgress": [],
   "isPlayerCustom": true
 }
