@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_hesus_bloodring.json",
-  "accountId": "Hesus",
+  "accountId": "hesus",
   "id": "jedi_hesus_bloodring",
   "name": "bloodring",
   "title": "Jedi Youngling",
@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-29",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "purple",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 9,
+    "wins": 10,
     "losses": 6,
     "draws": 0,
-    "totalDuels": 15
+    "totalDuels": 16
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 273,
+    "achievementPoints": 288,
     "galacticRank": 99
   },
   "forcePower": 45,
   "lightsaberSkill": 31,
   "agility": 35,
   "wisdom": 27,
-  "wins": 9,
+  "wins": 10,
   "losses": 6,
-  "score": 273,
+  "score": 288,
   "rank": "Youngling",
   "lightsaberColor": "purple",
   "avatarSeed": "jedi_1782354954503_bloodring",
