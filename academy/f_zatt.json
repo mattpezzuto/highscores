@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 5,
+    "wins": 6,
     "losses": 12,
     "draws": 0,
-    "totalDuels": 17
+    "totalDuels": 18
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 172,
+    "achievementPoints": 187,
     "galacticRank": 99
   },
   "forcePower": 22,
   "lightsaberSkill": 21,
   "agility": 24,
   "wisdom": 30,
-  "wins": 5,
+  "wins": 6,
   "losses": 12,
-  "score": 172,
+  "score": 187,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "zatt_young_36",
