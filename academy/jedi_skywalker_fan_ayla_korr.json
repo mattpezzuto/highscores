@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-29",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 59,
-    "losses": 9,
+    "losses": 10,
     "draws": 0,
-    "totalDuels": 68
+    "totalDuels": 69
   },
   "ranking": {
     "title": "Jedi Knight",
@@ -41,7 +41,7 @@
   "agility": 95,
   "wisdom": 78,
   "wins": 59,
-  "losses": 9,
+  "losses": 10,
   "score": 1234,
   "rank": "Knight",
   "lightsaberColor": "green",
