@@ -47,7 +47,10 @@
   "lightsaberColor": "cyan",
   "avatarSeed": "jedi_1782354161604_oring",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 60,
-  "questProgress": [],
+  "creds": 35,
+  "questProgress": [
+    "quest1-b"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
