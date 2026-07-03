@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-02",
+  "lastDayTrained": "2026-07-03",
   "lightsaber": {
     "color": "cyan",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 1,
+    "wins": 2,
     "losses": 7,
     "draws": 0,
-    "totalDuels": 8
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 132,
+    "achievementPoints": 147,
     "galacticRank": 99
   },
   "forcePower": 25,
   "lightsaberSkill": 25,
   "agility": 25,
   "wisdom": 42,
-  "wins": 1,
+  "wins": 2,
   "losses": 7,
-  "score": 132,
+  "score": 147,
   "rank": "Youngling",
   "lightsaberColor": "cyan",
   "avatarSeed": "jedi_1782683572779_Soze",
