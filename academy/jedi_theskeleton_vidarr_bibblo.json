@@ -3,7 +3,7 @@
   "accountId": "theskeleton",
   "id": "jedi_theskeleton_vidarr_bibblo",
   "name": "Vidarr Bibblo",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-07-04",
   "gender": "Any",
@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 63,
+    "forcePower": 64,
     "lightsaberSkill": 31,
     "agility": 32,
-    "wisdom": 33,
+    "wisdom": 38,
     "strength": 70,
     "defense": 70
   },
@@ -32,22 +32,22 @@
     "totalDuels": 8
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 249,
+    "title": "Jedi Padawan",
+    "achievementPoints": 255,
     "galacticRank": 99
   },
-  "forcePower": 63,
+  "forcePower": 64,
   "lightsaberSkill": 31,
   "agility": 32,
-  "wisdom": 33,
+  "wisdom": 38,
   "wins": 6,
   "losses": 2,
-  "score": 249,
-  "rank": "Youngling",
+  "score": 255,
+  "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178679969_Vidarr Bibblo",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 440,
+  "creds": 468,
   "questProgress": [
     "quest1-a"
   ],
