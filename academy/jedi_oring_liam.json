@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-28",
+  "lastDayTrained": "2026-07-04",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 9,
-    "losses": 16,
+    "losses": 17,
     "draws": 0,
-    "totalDuels": 25
+    "totalDuels": 26
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,7 +41,7 @@
   "agility": 26,
   "wisdom": 26,
   "wins": 9,
-  "losses": 16,
+  "losses": 17,
   "score": 256,
   "rank": "Youngling",
   "lightsaberColor": "blue",
