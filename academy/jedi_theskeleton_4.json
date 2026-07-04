@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_4.json",
-  "accountId": "TheSkeleton",
+  "accountId": "theskeleton",
   "id": "jedi_theskeleton_4",
   "name": "4",
   "title": "Jedi Youngling",
@@ -26,10 +26,10 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 2,
+    "losses": 5,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 7
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -40,14 +40,17 @@
   "lightsaberSkill": 25,
   "agility": 40,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 0,
+  "wins": 2,
+  "losses": 5,
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182432970_4",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 100,
-  "questProgress": [],
+  "creds": 75,
+  "questProgress": [
+    "quest1-a"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
