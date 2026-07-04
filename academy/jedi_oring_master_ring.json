@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 16,
-    "losses": 5,
+    "losses": 6,
     "draws": 0,
-    "totalDuels": 21
+    "totalDuels": 22
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -41,13 +41,13 @@
   "agility": 34,
   "wisdom": 36,
   "wins": 16,
-  "losses": 5,
+  "losses": 6,
   "score": 398,
   "rank": "Youngling",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
   "lightsaberForm": "Form III: Soresu",
-  "creds": 330,
+  "creds": 320,
   "questProgress": [
     "quest1-c"
   ],
