@@ -47,7 +47,10 @@
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783181895668_1",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 100,
-  "questProgress": [],
+  "creds": 75,
+  "questProgress": [
+    "quest1-b"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
