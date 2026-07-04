@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 26,
-    "lightsaberSkill": 44,
+    "lightsaberSkill": 46,
     "agility": 30,
     "wisdom": 28,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 8,
+    "wins": 9,
     "losses": 2,
     "draws": 0,
-    "totalDuels": 10
+    "totalDuels": 11
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 248,
+    "achievementPoints": 265,
     "galacticRank": 99
   },
   "forcePower": 26,
-  "lightsaberSkill": 44,
+  "lightsaberSkill": 46,
   "agility": 30,
   "wisdom": 28,
-  "wins": 8,
+  "wins": 9,
   "losses": 2,
-  "score": 248,
+  "score": 265,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178310668_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 246,
+  "creds": 236,
   "questProgress": [
     "quest1-c"
   ],
