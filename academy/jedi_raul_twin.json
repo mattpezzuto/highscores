@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_raul_twin.json",
-  "accountId": "Raul",
+  "accountId": "raul",
   "id": "jedi_raul_twin",
   "name": "TWIN",
   "title": "Jedi Youngling",
@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-02",
+  "lastDayTrained": "2026-07-04",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 1,
+    "wins": 7,
+    "losses": 2,
     "draws": 0,
-    "totalDuels": 1
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 115,
+    "achievementPoints": 220,
     "galacticRank": 99
   },
   "forcePower": 25,
   "lightsaberSkill": 25,
   "agility": 40,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 1,
-  "score": 115,
+  "wins": 7,
+  "losses": 2,
+  "score": 220,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1783001495179_TWIN",
