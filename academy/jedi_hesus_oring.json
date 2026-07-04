@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-03",
+  "lastDayTrained": "2026-07-04T20:39:32.056Z",
   "lightsaber": {
     "color": "cyan",
     "crystal": "Kyber Crystal",
@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 25,
+    "forcePower": 26,
     "lightsaberSkill": 40,
     "agility": 25,
-    "wisdom": 25,
+    "wisdom": 30,
     "strength": 70,
     "defense": 70
   },
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 235,
+    "achievementPoints": 241,
     "galacticRank": 99
   },
-  "forcePower": 25,
+  "forcePower": 26,
   "lightsaberSkill": 40,
   "agility": 25,
-  "wisdom": 25,
+  "wisdom": 30,
   "wins": 8,
   "losses": 17,
-  "score": 235,
+  "score": 241,
   "rank": "Youngling",
   "lightsaberColor": "cyan",
   "avatarSeed": "jedi_1782354161604_oring",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 35,
+  "creds": 60,
   "questProgress": [
     "quest1-b"
   ],
