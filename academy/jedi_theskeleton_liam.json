@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_liam.json",
-  "accountId": "TheSkeleton",
+  "accountId": "theskeleton",
   "id": "jedi_theskeleton_liam",
   "name": "Liam",
   "title": "Jedi Youngling",
@@ -26,10 +26,10 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 7,
+    "losses": 2,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -40,14 +40,17 @@
   "lightsaberSkill": 40,
   "agility": 25,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 0,
+  "wins": 7,
+  "losses": 2,
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178310668_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 100,
-  "questProgress": [],
+  "creds": 50,
+  "questProgress": [
+    "quest1-c"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
