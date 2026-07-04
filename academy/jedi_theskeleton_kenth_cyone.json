@@ -47,7 +47,10 @@
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 125,
-  "questProgress": [],
+  "creds": 100,
+  "questProgress": [
+    "quest1-a"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
