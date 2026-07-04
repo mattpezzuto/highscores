@@ -3,7 +3,7 @@
   "accountId": "theskeleton",
   "id": "jedi_theskeleton_deng_pavan",
   "name": "Deng Pavan",
-  "title": "Jedi Padawan",
+  "title": "Jedi Youngling",
   "species": "Human",
   "dob": "2026-07-04",
   "gender": "Any",
@@ -18,36 +18,36 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 31,
-    "lightsaberSkill": 53,
-    "agility": 55,
+    "forcePower": 30,
+    "lightsaberSkill": 49,
+    "agility": 50,
     "wisdom": 26,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
     "wins": 2,
-    "losses": 10,
+    "losses": 12,
     "draws": 0,
-    "totalDuels": 12
+    "totalDuels": 14
   },
   "ranking": {
-    "title": "Jedi Padawan",
-    "achievementPoints": 195,
+    "title": "Jedi Youngling",
+    "achievementPoints": 185,
     "galacticRank": 99
   },
-  "forcePower": 31,
-  "lightsaberSkill": 53,
-  "agility": 55,
+  "forcePower": 30,
+  "lightsaberSkill": 49,
+  "agility": 50,
   "wisdom": 26,
   "wins": 2,
-  "losses": 10,
-  "score": 195,
-  "rank": "Padawan",
+  "losses": 12,
+  "score": 185,
+  "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 320,
+  "creds": 257,
   "questProgress": [
     "quest1-b"
   ],
