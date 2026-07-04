@@ -3,7 +3,7 @@
   "accountId": "theskeleton",
   "id": "jedi_theskeleton_liam",
   "name": "Liam",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-07-04",
   "gender": "Any",
@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 30,
+    "forcePower": 34,
     "lightsaberSkill": 56,
     "agility": 41,
-    "wisdom": 28,
+    "wisdom": 29,
     "strength": 70,
     "defense": 70
   },
@@ -32,22 +32,22 @@
     "totalDuels": 11
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 290,
+    "title": "Jedi Padawan",
+    "achievementPoints": 295,
     "galacticRank": 99
   },
-  "forcePower": 30,
+  "forcePower": 34,
   "lightsaberSkill": 56,
   "agility": 41,
-  "wisdom": 28,
+  "wisdom": 29,
   "wins": 9,
   "losses": 2,
-  "score": 290,
-  "rank": "Youngling",
+  "score": 295,
+  "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178310668_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 365,
+  "creds": 390,
   "questProgress": [
     "quest1-c"
   ],
