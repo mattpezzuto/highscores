@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 29,
-    "lightsaberSkill": 29,
-    "agility": 41,
+    "lightsaberSkill": 33,
+    "agility": 42,
     "wisdom": 26,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 155,
+    "achievementPoints": 160,
     "galacticRank": 99
   },
   "forcePower": 29,
-  "lightsaberSkill": 29,
-  "agility": 41,
+  "lightsaberSkill": 33,
+  "agility": 42,
   "wisdom": 26,
   "wins": 2,
   "losses": 8,
-  "score": 155,
+  "score": 160,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 127,
+  "creds": 155,
   "questProgress": [
     "quest1-b"
   ],
