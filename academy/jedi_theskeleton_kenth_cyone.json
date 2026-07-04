@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 25,
-    "lightsaberSkill": 29,
-    "agility": 41,
+    "lightsaberSkill": 33,
+    "agility": 42,
     "wisdom": 25,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 165,
+    "achievementPoints": 170,
     "galacticRank": 99
   },
   "forcePower": 25,
-  "lightsaberSkill": 29,
-  "agility": 41,
+  "lightsaberSkill": 33,
+  "agility": 42,
   "wisdom": 25,
   "wins": 3,
   "losses": 2,
-  "score": 165,
+  "score": 170,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 100,
+  "creds": 126,
   "questProgress": [
     "quest1-a"
   ],
