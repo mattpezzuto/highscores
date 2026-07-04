@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_2.json",
-  "accountId": "theskeleton",
+  "accountId": "TheSkeleton",
   "id": "jedi_theskeleton_2",
   "name": "2",
   "title": "Jedi Youngling",
@@ -14,40 +14,40 @@
     "color": "blue",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form VII: Juyo / Vaapad",
+    "form": "Form I: Shii-Cho",
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 27,
-    "lightsaberSkill": 40,
-    "agility": 25,
+    "forcePower": 25,
+    "lightsaberSkill": 25,
+    "agility": 40,
     "wisdom": 25,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 2,
-    "losses": 2,
+    "wins": 0,
+    "losses": 0,
     "draws": 0,
-    "totalDuels": 4
+    "totalDuels": 0
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 147,
+    "achievementPoints": 115,
     "galacticRank": 99
   },
-  "forcePower": 27,
-  "lightsaberSkill": 40,
-  "agility": 25,
+  "forcePower": 25,
+  "lightsaberSkill": 25,
+  "agility": 40,
   "wisdom": 25,
-  "wins": 2,
-  "losses": 2,
-  "score": 147,
+  "wins": 0,
+  "losses": 0,
+  "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
-  "avatarSeed": "jedi_1783181905946_2",
-  "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 90,
+  "avatarSeed": "jedi_1783182053143_2",
+  "lightsaberForm": "Form I: Shii-Cho",
+  "creds": 100,
   "questProgress": [],
   "isPlayerCustom": true
 }
