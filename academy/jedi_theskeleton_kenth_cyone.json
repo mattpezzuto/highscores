@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 16,
+    "wins": 17,
     "losses": 3,
     "draws": 0,
-    "totalDuels": 19
+    "totalDuels": 20
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 416,
+    "achievementPoints": 431,
     "galacticRank": 99
   },
   "forcePower": 39,
   "lightsaberSkill": 53,
   "agility": 57,
   "wisdom": 27,
-  "wins": 16,
+  "wins": 17,
   "losses": 3,
-  "score": 416,
+  "score": 431,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
