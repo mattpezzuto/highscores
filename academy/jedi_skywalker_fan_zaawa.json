@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 57,
-    "losses": 15,
+    "losses": 16,
     "draws": 0,
-    "totalDuels": 72
+    "totalDuels": 73
   },
   "ranking": {
     "title": "Jedi Knight",
@@ -41,7 +41,7 @@
   "agility": 39,
   "wisdom": 42,
   "wins": 57,
-  "losses": 15,
+  "losses": 16,
   "score": 1036,
   "rank": "Knight",
   "lightsaberColor": "green",
