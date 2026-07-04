@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_oring_qwer.json",
-  "accountId": "Oring",
+  "accountId": "oring",
   "id": "jedi_oring_qwer",
   "name": "qwer",
   "title": "Jedi Youngling",
@@ -46,7 +46,10 @@
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783186991427_qwer",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 100,
-  "questProgress": [],
+  "creds": 75,
+  "questProgress": [
+    "quest1-c"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
