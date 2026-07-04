@@ -18,10 +18,10 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 36,
+    "forcePower": 40,
     "lightsaberSkill": 53,
     "agility": 59,
-    "wisdom": 27,
+    "wisdom": 28,
     "strength": 70,
     "defense": 70
   },
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 205,
+    "achievementPoints": 210,
     "galacticRank": 99
   },
-  "forcePower": 36,
+  "forcePower": 40,
   "lightsaberSkill": 53,
   "agility": 59,
-  "wisdom": 27,
+  "wisdom": 28,
   "wins": 2,
   "losses": 11,
-  "score": 205,
+  "score": 210,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 358,
+  "creds": 386,
   "questProgress": [
     "quest1-b"
   ],
