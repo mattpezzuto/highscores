@@ -18,7 +18,7 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 41,
+    "forcePower": 43,
     "lightsaberSkill": 66,
     "agility": 56,
     "wisdom": 36,
@@ -26,28 +26,28 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 43,
+    "wins": 44,
     "losses": 21,
     "draws": 0,
-    "totalDuels": 64
+    "totalDuels": 65
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 844,
+    "achievementPoints": 861,
     "galacticRank": 99
   },
-  "forcePower": 41,
+  "forcePower": 43,
   "lightsaberSkill": 66,
   "agility": 56,
   "wisdom": 36,
-  "wins": 43,
+  "wins": 44,
   "losses": 21,
-  "score": 844,
+  "score": 861,
   "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 110,
+  "creds": 100,
   "questProgress": [
     "quest1-a"
   ],
