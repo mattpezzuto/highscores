@@ -14,13 +14,13 @@
     "color": "blue",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form I: Shii-Cho",
+    "form": "Form II: Makashi",
     "status": "Fully Operational"
   },
   "stats": {
     "forcePower": 25,
-    "lightsaberSkill": 25,
-    "agility": 40,
+    "lightsaberSkill": 40,
+    "agility": 25,
     "wisdom": 25,
     "strength": 70,
     "defense": 70
@@ -37,16 +37,16 @@
     "galacticRank": 99
   },
   "forcePower": 25,
-  "lightsaberSkill": 25,
-  "agility": 40,
+  "lightsaberSkill": 40,
+  "agility": 25,
   "wisdom": 25,
   "wins": 0,
   "losses": 0,
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
-  "avatarSeed": "jedi_1783182053143_2",
-  "lightsaberForm": "Form I: Shii-Cho",
+  "avatarSeed": "jedi_1783182187445_2",
+  "lightsaberForm": "Form II: Makashi",
   "creds": 100,
   "questProgress": [],
   "isPlayerCustom": true
