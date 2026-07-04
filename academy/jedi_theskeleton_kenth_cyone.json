@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 6,
-    "losses": 2,
+    "losses": 3,
     "draws": 0,
-    "totalDuels": 8
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 57,
   "wisdom": 26,
   "wins": 6,
-  "losses": 2,
+  "losses": 3,
   "score": 261,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 304,
+  "creds": 294,
   "questProgress": [
     "quest1-a"
   ],
