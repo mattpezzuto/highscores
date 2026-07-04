@@ -3,7 +3,7 @@
   "accountId": "theskeleton",
   "id": "jedi_theskeleton_kenth_cyone",
   "name": "Kenth Cyone",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-07-04",
   "gender": "Any",
@@ -18,9 +18,9 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 34,
+    "forcePower": 35,
     "lightsaberSkill": 45,
-    "agility": 51,
+    "agility": 55,
     "wisdom": 26,
     "strength": 70,
     "defense": 70
@@ -32,22 +32,22 @@
     "totalDuels": 8
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 246,
+    "title": "Jedi Padawan",
+    "achievementPoints": 251,
     "galacticRank": 99
   },
-  "forcePower": 34,
+  "forcePower": 35,
   "lightsaberSkill": 45,
-  "agility": 51,
+  "agility": 55,
   "wisdom": 26,
   "wins": 6,
   "losses": 2,
-  "score": 246,
-  "rank": "Youngling",
+  "score": 251,
+  "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 225,
+  "creds": 253,
   "questProgress": [
     "quest1-a"
   ],
