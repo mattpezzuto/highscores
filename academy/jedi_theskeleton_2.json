@@ -14,7 +14,7 @@
     "color": "blue",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form III: Soresu",
+    "form": "Form IV: Ataru",
     "status": "Fully Operational"
   },
   "stats": {
@@ -45,8 +45,8 @@
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
-  "avatarSeed": "jedi_1783182229435_2",
-  "lightsaberForm": "Form III: Soresu",
+  "avatarSeed": "jedi_1783182259580_2",
+  "lightsaberForm": "Form IV: Ataru",
   "creds": 100,
   "questProgress": [],
   "isPlayerCustom": true
