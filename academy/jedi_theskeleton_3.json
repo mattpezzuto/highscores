@@ -14,7 +14,7 @@
     "color": "blue",
     "crystal": "Kyber Crystal",
     "hiltStyle": "Academy Standard",
-    "form": "Form V: Shien / Djem So",
+    "form": "Form VI: Niman",
     "status": "Fully Operational"
   },
   "stats": {
@@ -45,8 +45,8 @@
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
-  "avatarSeed": "jedi_1783182344126_3",
-  "lightsaberForm": "Form V: Shien / Djem So",
+  "avatarSeed": "jedi_1783182376038_3",
+  "lightsaberForm": "Form VI: Niman",
   "creds": 100,
   "questProgress": [],
   "isPlayerCustom": true
