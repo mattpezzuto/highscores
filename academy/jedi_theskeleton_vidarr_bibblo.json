@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 64,
-    "lightsaberSkill": 43,
-    "agility": 35,
+    "lightsaberSkill": 47,
+    "agility": 36,
     "wisdom": 38,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 270,
+    "achievementPoints": 275,
     "galacticRank": 99
   },
   "forcePower": 64,
-  "lightsaberSkill": 43,
-  "agility": 35,
+  "lightsaberSkill": 47,
+  "agility": 36,
   "wisdom": 38,
   "wins": 6,
   "losses": 2,
-  "score": 270,
+  "score": 275,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178679969_Vidarr Bibblo",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 525,
+  "creds": 555,
   "questProgress": [
     "quest1-b"
   ],
