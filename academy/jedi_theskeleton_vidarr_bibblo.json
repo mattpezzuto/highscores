@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 6,
-    "losses": 2,
+    "losses": 3,
     "draws": 0,
-    "totalDuels": 8
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 41,
   "wisdom": 43,
   "wins": 6,
-  "losses": 2,
+  "losses": 3,
   "score": 291,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178679969_Vidarr Bibblo",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 641,
+  "creds": 631,
   "questProgress": [
     "quest1-b"
   ],
