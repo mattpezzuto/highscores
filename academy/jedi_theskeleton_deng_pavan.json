@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 2,
-    "losses": 11,
+    "losses": 12,
     "draws": 0,
-    "totalDuels": 13
+    "totalDuels": 14
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 59,
   "wisdom": 28,
   "wins": 2,
-  "losses": 11,
+  "losses": 12,
   "score": 210,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 386,
+  "creds": 376,
   "questProgress": [
     "quest1-b"
   ],
