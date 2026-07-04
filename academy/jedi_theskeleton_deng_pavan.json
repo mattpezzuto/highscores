@@ -1,0 +1,53 @@
+{
+  "file": "academy/jedi_theskeleton_deng_pavan.json",
+  "accountId": "TheSkeleton",
+  "id": "jedi_theskeleton_deng_pavan",
+  "name": "Deng Pavan",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "dob": "2026-07-04",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lastDayTrained": "2026-07-04",
+  "lightsaber": {
+    "color": "blue",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form VII: Juyo / Vaapad",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 25,
+    "lightsaberSkill": 25,
+    "agility": 40,
+    "wisdom": 25,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "totalDuels": 0
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 115,
+    "galacticRank": 99
+  },
+  "forcePower": 25,
+  "lightsaberSkill": 25,
+  "agility": 40,
+  "wisdom": 25,
+  "wins": 0,
+  "losses": 0,
+  "score": 115,
+  "rank": "Youngling",
+  "lightsaberColor": "blue",
+  "avatarSeed": "jedi_1783182668433_Deng Pavan",
+  "lightsaberForm": "Form VII: Juyo / Vaapad",
+  "creds": 100,
+  "questProgress": [],
+  "isPlayerCustom": true
+}
