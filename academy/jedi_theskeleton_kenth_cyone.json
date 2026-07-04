@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_kenth_cyone.json",
-  "accountId": "TheSkeleton",
+  "accountId": "theskeleton",
   "id": "jedi_theskeleton_kenth_cyone",
   "name": "Kenth Cyone",
   "title": "Jedi Youngling",
@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 25,
-    "lightsaberSkill": 25,
-    "agility": 40,
+    "lightsaberSkill": 29,
+    "agility": 41,
     "wisdom": 25,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 3,
+    "losses": 2,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 5
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 115,
+    "achievementPoints": 165,
     "galacticRank": 99
   },
   "forcePower": 25,
-  "lightsaberSkill": 25,
-  "agility": 40,
+  "lightsaberSkill": 29,
+  "agility": 41,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 0,
-  "score": 115,
+  "wins": 3,
+  "losses": 2,
+  "score": 165,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 100,
+  "creds": 125,
   "questProgress": [],
   "isPlayerCustom": true
 }
