@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_1.json",
-  "accountId": "TheSkeleton",
+  "accountId": "theskeleton",
   "id": "jedi_theskeleton_1",
   "name": "1",
   "title": "Jedi Youngling",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
-    "losses": 0,
+    "wins": 6,
+    "losses": 2,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 8
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 115,
+    "achievementPoints": 205,
     "galacticRank": 99
   },
   "forcePower": 25,
   "lightsaberSkill": 25,
   "agility": 40,
   "wisdom": 25,
-  "wins": 0,
-  "losses": 0,
-  "score": 115,
+  "wins": 6,
+  "losses": 2,
+  "score": 205,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783181895668_1",
