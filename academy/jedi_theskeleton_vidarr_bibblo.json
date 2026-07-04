@@ -18,9 +18,9 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 50,
+    "forcePower": 51,
     "lightsaberSkill": 27,
-    "agility": 27,
+    "agility": 31,
     "wisdom": 29,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 223,
+    "achievementPoints": 228,
     "galacticRank": 99
   },
-  "forcePower": 50,
+  "forcePower": 51,
   "lightsaberSkill": 27,
-  "agility": 27,
+  "agility": 31,
   "wisdom": 29,
   "wins": 6,
   "losses": 2,
-  "score": 223,
+  "score": 228,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178679969_Vidarr Bibblo",
   "lightsaberForm": "Form VI: Niman",
-  "creds": 155,
+  "creds": 182,
   "questProgress": [
     "quest1-a"
   ],
