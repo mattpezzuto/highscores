@@ -1,6 +1,6 @@
 {
   "file": "academy/jedi_theskeleton_deng_pavan.json",
-  "accountId": "TheSkeleton",
+  "accountId": "theskeleton",
   "id": "jedi_theskeleton_deng_pavan",
   "name": "Deng Pavan",
   "title": "Jedi Youngling",
@@ -26,10 +26,10 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 0,
+    "wins": 2,
     "losses": 0,
     "draws": 0,
-    "totalDuels": 0
+    "totalDuels": 2
   },
   "ranking": {
     "title": "Jedi Youngling",
@@ -40,14 +40,17 @@
   "lightsaberSkill": 25,
   "agility": 40,
   "wisdom": 25,
-  "wins": 0,
+  "wins": 2,
   "losses": 0,
   "score": 115,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 100,
-  "questProgress": [],
+  "creds": 75,
+  "questProgress": [
+    "quest1-b"
+  ],
+  "quest1Count": 1,
   "isPlayerCustom": true
 }
