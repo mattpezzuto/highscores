@@ -3,7 +3,7 @@
   "accountId": "oring",
   "id": "jedi_oring_master_ring",
   "name": "Master Ring",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-06-25",
   "gender": "Any",
@@ -21,7 +21,7 @@
     "forcePower": 51,
     "lightsaberSkill": 37,
     "agility": 34,
-    "wisdom": 37,
+    "wisdom": 38,
     "strength": 70,
     "defense": 70
   },
@@ -32,22 +32,22 @@
     "totalDuels": 22
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 399,
+    "title": "Jedi Padawan",
+    "achievementPoints": 400,
     "galacticRank": 99
   },
   "forcePower": 51,
   "lightsaberSkill": 37,
   "agility": 34,
-  "wisdom": 37,
+  "wisdom": 38,
   "wins": 16,
   "losses": 6,
-  "score": 399,
-  "rank": "Youngling",
+  "score": 400,
+  "rank": "Padawan",
   "lightsaberColor": "yellow",
   "avatarSeed": "jedi_1782352283386_Master Ring",
   "lightsaberForm": "Form III: Soresu",
-  "creds": 470,
+  "creds": 620,
   "questProgress": [
     "quest1-c"
   ],
