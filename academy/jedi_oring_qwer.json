@@ -1,0 +1,52 @@
+{
+  "file": "academy/jedi_oring_qwer.json",
+  "accountId": "Oring",
+  "id": "jedi_oring_qwer",
+  "name": "qwer",
+  "title": "Jedi Youngling",
+  "species": "Human",
+  "dob": "2026-07-04",
+  "gender": "Any",
+  "height": "1.65m",
+  "affiliation": "Jedi Academy",
+  "lightsaber": {
+    "color": "blue",
+    "crystal": "Kyber Crystal",
+    "hiltStyle": "Academy Standard",
+    "form": "Form I: Shii-Cho",
+    "status": "Fully Operational"
+  },
+  "stats": {
+    "forcePower": 25,
+    "lightsaberSkill": 40,
+    "agility": 25,
+    "wisdom": 25,
+    "strength": 70,
+    "defense": 70
+  },
+  "combatRecord": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "totalDuels": 0
+  },
+  "ranking": {
+    "title": "Jedi Youngling",
+    "achievementPoints": 115,
+    "galacticRank": 99
+  },
+  "forcePower": 25,
+  "lightsaberSkill": 40,
+  "agility": 25,
+  "wisdom": 25,
+  "wins": 0,
+  "losses": 0,
+  "score": 115,
+  "rank": "Youngling",
+  "lightsaberColor": "blue",
+  "avatarSeed": "jedi_1783186991427_qwer",
+  "lightsaberForm": "Form I: Shii-Cho",
+  "creds": 100,
+  "questProgress": [],
+  "isPlayerCustom": true
+}
