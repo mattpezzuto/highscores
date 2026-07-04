@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 6,
-    "losses": 2,
+    "losses": 3,
     "draws": 0,
-    "totalDuels": 8
+    "totalDuels": 9
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,7 +41,7 @@
   "agility": 38,
   "wisdom": 38,
   "wins": 6,
-  "losses": 2,
+  "losses": 3,
   "score": 285,
   "rank": "Padawan",
   "lightsaberColor": "blue",
