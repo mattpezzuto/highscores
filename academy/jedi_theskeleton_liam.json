@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 34,
-    "lightsaberSkill": 60,
-    "agility": 42,
+    "lightsaberSkill": 64,
+    "agility": 43,
     "wisdom": 29,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 300,
+    "achievementPoints": 305,
     "galacticRank": 99
   },
   "forcePower": 34,
-  "lightsaberSkill": 60,
-  "agility": 42,
+  "lightsaberSkill": 64,
+  "agility": 43,
   "wisdom": 29,
   "wins": 9,
   "losses": 2,
-  "score": 300,
+  "score": 305,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178310668_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 416,
+  "creds": 445,
   "questProgress": [
     "quest1-c"
   ],
