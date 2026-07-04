@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-06-29",
+  "lastDayTrained": "2026-07-04",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 5,
+    "wins": 6,
     "losses": 8,
     "draws": 0,
-    "totalDuels": 13
+    "totalDuels": 14
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 180,
+    "achievementPoints": 195,
     "galacticRank": 99
   },
   "forcePower": 26,
   "lightsaberSkill": 26,
   "agility": 28,
   "wisdom": 25,
-  "wins": 5,
+  "wins": 6,
   "losses": 8,
-  "score": 180,
+  "score": 195,
   "rank": "Youngling",
   "lightsaberColor": "green",
   "avatarSeed": "katooni_young_32",
