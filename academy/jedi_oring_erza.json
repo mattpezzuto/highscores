@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-03",
+  "lastDayTrained": "2026-07-04",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -18,7 +18,7 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 34,
+    "forcePower": 36,
     "lightsaberSkill": 48,
     "agility": 32,
     "wisdom": 45,
@@ -26,28 +26,28 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 14,
+    "wins": 15,
     "losses": 30,
     "draws": 0,
-    "totalDuels": 44
+    "totalDuels": 45
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 369,
+    "achievementPoints": 386,
     "galacticRank": 99
   },
-  "forcePower": 34,
+  "forcePower": 36,
   "lightsaberSkill": 48,
   "agility": 32,
   "wisdom": 45,
-  "wins": 14,
+  "wins": 15,
   "losses": 30,
-  "score": 369,
+  "score": 386,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 170,
+  "creds": 160,
   "questProgress": [
     "quest1-b"
   ],
