@@ -3,13 +3,13 @@
   "accountId": "oring",
   "id": "jedi_oring_erza",
   "name": "Erza",
-  "title": "Jedi Youngling",
+  "title": "Jedi Padawan",
   "species": "Human",
   "dob": "2026-06-25",
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-01",
+  "lastDayTrained": "2026-07-04",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -21,7 +21,7 @@
     "forcePower": 38,
     "lightsaberSkill": 48,
     "agility": 32,
-    "wisdom": 45,
+    "wisdom": 46,
     "strength": 70,
     "defense": 70
   },
@@ -32,22 +32,22 @@
     "totalDuels": 48
   },
   "ranking": {
-    "title": "Jedi Youngling",
-    "achievementPoints": 403,
+    "title": "Jedi Padawan",
+    "achievementPoints": 404,
     "galacticRank": 99
   },
   "forcePower": 38,
   "lightsaberSkill": 48,
   "agility": 32,
-  "wisdom": 45,
+  "wisdom": 46,
   "wins": 16,
   "losses": 32,
-  "score": 403,
-  "rank": "Youngling",
+  "score": 404,
+  "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 130,
+  "creds": 280,
   "questProgress": [
     "quest1-b"
   ],
