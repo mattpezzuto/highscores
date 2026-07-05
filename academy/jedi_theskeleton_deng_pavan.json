@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 2,
+    "wins": 3,
     "losses": 15,
     "draws": 0,
-    "totalDuels": 17
+    "totalDuels": 18
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 210,
+    "achievementPoints": 225,
     "galacticRank": 99
   },
   "forcePower": 40,
   "lightsaberSkill": 53,
   "agility": 59,
   "wisdom": 28,
-  "wins": 2,
+  "wins": 3,
   "losses": 15,
-  "score": 210,
+  "score": 225,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
