@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-05T03:28:36.185Z",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -21,7 +21,7 @@
     "forcePower": 25,
     "lightsaberSkill": 40,
     "agility": 25,
-    "wisdom": 25,
+    "wisdom": 26,
     "strength": 70,
     "defense": 70
   },
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Youngling",
-    "achievementPoints": 115,
+    "achievementPoints": 116,
     "galacticRank": 99
   },
   "forcePower": 25,
   "lightsaberSkill": 40,
   "agility": 25,
-  "wisdom": 25,
+  "wisdom": 26,
   "wins": 0,
   "losses": 1,
-  "score": 115,
+  "score": 116,
   "rank": "Youngling",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783186724945_asdf",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 90,
+  "creds": 240,
   "questProgress": [],
   "isPlayerCustom": true
 }
