@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-06T01:08:25.902Z",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -18,9 +18,9 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 34,
+    "forcePower": 35,
     "lightsaberSkill": 64,
-    "agility": 43,
+    "agility": 47,
     "wisdom": 29,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 305,
+    "achievementPoints": 310,
     "galacticRank": 99
   },
-  "forcePower": 34,
+  "forcePower": 35,
   "lightsaberSkill": 64,
-  "agility": 43,
+  "agility": 47,
   "wisdom": 29,
   "wins": 9,
   "losses": 2,
-  "score": 305,
+  "score": 310,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783178310668_Liam",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 445,
+  "creds": 472,
   "questProgress": [
     "quest1-c"
   ],
