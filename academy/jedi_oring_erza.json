@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 16,
-    "losses": 38,
+    "losses": 39,
     "draws": 0,
-    "totalDuels": 54
+    "totalDuels": 55
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 32,
   "wisdom": 46,
   "wins": 16,
-  "losses": 38,
+  "losses": 39,
   "score": 404,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 195,
+  "creds": 185,
   "questProgress": [
     "quest1-a"
   ],
