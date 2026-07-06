@@ -20,34 +20,34 @@
   "stats": {
     "forcePower": 44,
     "lightsaberSkill": 53,
-    "agility": 61,
+    "agility": 63,
     "wisdom": 27,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 20,
+    "wins": 21,
     "losses": 3,
     "draws": 0,
-    "totalDuels": 23
+    "totalDuels": 24
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 485,
+    "achievementPoints": 502,
     "galacticRank": 99
   },
   "forcePower": 44,
   "lightsaberSkill": 53,
-  "agility": 61,
+  "agility": 63,
   "wisdom": 27,
-  "wins": 20,
+  "wins": 21,
   "losses": 3,
-  "score": 485,
+  "score": 502,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 433,
+  "creds": 423,
   "questProgress": [
     "quest1-a"
   ],
