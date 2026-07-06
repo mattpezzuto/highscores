@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-06T01:08:33.408Z",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -18,9 +18,9 @@
     "status": "Fully Operational"
   },
   "stats": {
-    "forcePower": 39,
+    "forcePower": 40,
     "lightsaberSkill": 53,
-    "agility": 57,
+    "agility": 61,
     "wisdom": 27,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 446,
+    "achievementPoints": 451,
     "galacticRank": 99
   },
-  "forcePower": 39,
+  "forcePower": 40,
   "lightsaberSkill": 53,
-  "agility": 57,
+  "agility": 61,
   "wisdom": 27,
   "wins": 18,
   "losses": 3,
-  "score": 446,
+  "score": 451,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783179937402_Kenth Cyone",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 424,
+  "creds": 453,
   "questProgress": [
     "quest1-a"
   ],
