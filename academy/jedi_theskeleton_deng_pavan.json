@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-06T01:09:04.036Z",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 40,
-    "lightsaberSkill": 53,
-    "agility": 59,
+    "lightsaberSkill": 57,
+    "agility": 60,
     "wisdom": 28,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 225,
+    "achievementPoints": 230,
     "galacticRank": 99
   },
   "forcePower": 40,
-  "lightsaberSkill": 53,
-  "agility": 59,
+  "lightsaberSkill": 57,
+  "agility": 60,
   "wisdom": 28,
   "wins": 3,
   "losses": 15,
-  "score": 225,
+  "score": 230,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1783182668433_Deng Pavan",
   "lightsaberForm": "Form VII: Juyo / Vaapad",
-  "creds": 356,
+  "creds": 384,
   "questProgress": [
     "quest1-b"
   ],
