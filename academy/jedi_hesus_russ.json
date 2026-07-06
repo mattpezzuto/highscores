@@ -26,23 +26,23 @@
     "defense": 70
   },
   "combatRecord": {
-    "wins": 47,
+    "wins": 48,
     "losses": 22,
     "draws": 0,
-    "totalDuels": 69
+    "totalDuels": 70
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 908,
+    "achievementPoints": 923,
     "galacticRank": 99
   },
   "forcePower": 43,
   "lightsaberSkill": 66,
   "agility": 56,
   "wisdom": 38,
-  "wins": 47,
+  "wins": 48,
   "losses": 22,
-  "score": 908,
+  "score": 923,
   "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
