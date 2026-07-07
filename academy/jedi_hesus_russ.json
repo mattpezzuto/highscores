@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-07T03:51:35.561Z",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -19,8 +19,8 @@
   },
   "stats": {
     "forcePower": 43,
-    "lightsaberSkill": 66,
-    "agility": 56,
+    "lightsaberSkill": 70,
+    "agility": 57,
     "wisdom": 38,
     "strength": 70,
     "defense": 70
@@ -33,21 +33,21 @@
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 1058,
+    "achievementPoints": 1063,
     "galacticRank": 99
   },
   "forcePower": 43,
-  "lightsaberSkill": 66,
-  "agility": 56,
+  "lightsaberSkill": 70,
+  "agility": 57,
   "wisdom": 38,
   "wins": 57,
   "losses": 23,
-  "score": 1058,
+  "score": 1063,
   "rank": "Padawan",
   "lightsaberColor": "green",
   "avatarSeed": "jedi_1782355879296_Russ",
   "lightsaberForm": "Form II: Makashi",
-  "creds": 70,
+  "creds": 100,
   "questProgress": [
     "quest1-a"
   ],
