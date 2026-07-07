@@ -20,34 +20,34 @@
   "stats": {
     "forcePower": 38,
     "lightsaberSkill": 48,
-    "agility": 32,
+    "agility": 34,
     "wisdom": 46,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 16,
+    "wins": 17,
     "losses": 46,
     "draws": 0,
-    "totalDuels": 62
+    "totalDuels": 63
   },
   "ranking": {
     "title": "Jedi Padawan",
-    "achievementPoints": 404,
+    "achievementPoints": 421,
     "galacticRank": 99
   },
   "forcePower": 38,
   "lightsaberSkill": 48,
-  "agility": 32,
+  "agility": 34,
   "wisdom": 46,
-  "wins": 16,
+  "wins": 17,
   "losses": 46,
-  "score": 404,
+  "score": 421,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 115,
+  "creds": 105,
   "questProgress": [
     "quest1-a"
   ],
