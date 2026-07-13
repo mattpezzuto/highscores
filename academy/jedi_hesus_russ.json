@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-07T03:51:35.561Z",
+  "lastDayTrained": "2026-07-13",
   "lightsaber": {
     "color": "green",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 60,
-    "losses": 23,
+    "losses": 24,
     "draws": 0,
-    "totalDuels": 83
+    "totalDuels": 84
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,7 +41,7 @@
   "agility": 57,
   "wisdom": 38,
   "wins": 60,
-  "losses": 23,
+  "losses": 24,
   "score": 1108,
   "rank": "Padawan",
   "lightsaberColor": "green",
