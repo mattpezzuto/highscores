@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-07",
+  "lastDayTrained": "2026-07-13",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -27,9 +27,9 @@
   },
   "combatRecord": {
     "wins": 17,
-    "losses": 49,
+    "losses": 50,
     "draws": 0,
-    "totalDuels": 66
+    "totalDuels": 67
   },
   "ranking": {
     "title": "Jedi Padawan",
@@ -41,13 +41,13 @@
   "agility": 34,
   "wisdom": 46,
   "wins": 17,
-  "losses": 49,
+  "losses": 50,
   "score": 421,
   "rank": "Padawan",
   "lightsaberColor": "blue",
   "avatarSeed": "jedi_1782232694681_Erza",
   "lightsaberForm": "Form I: Shii-Cho",
-  "creds": 75,
+  "creds": 65,
   "questProgress": [
     "quest1-a"
   ],
