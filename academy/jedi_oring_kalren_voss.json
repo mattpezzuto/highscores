@@ -9,7 +9,7 @@
   "gender": "Any",
   "height": "1.65m",
   "affiliation": "Jedi Academy",
-  "lastDayTrained": "2026-07-04",
+  "lastDayTrained": "2026-07-14",
   "lightsaber": {
     "color": "blue",
     "crystal": "Kyber Crystal",
@@ -19,35 +19,35 @@
   },
   "stats": {
     "forcePower": 92,
-    "lightsaberSkill": 96,
+    "lightsaberSkill": 98,
     "agility": 88,
     "wisdom": 91,
     "strength": 70,
     "defense": 70
   },
   "combatRecord": {
-    "wins": 57,
+    "wins": 58,
     "losses": 14,
     "draws": 0,
-    "totalDuels": 71
+    "totalDuels": 72
   },
   "ranking": {
     "title": "Jedi Master",
-    "achievementPoints": 1222,
+    "achievementPoints": 1239,
     "galacticRank": 99
   },
   "forcePower": 92,
-  "lightsaberSkill": 96,
+  "lightsaberSkill": 98,
   "agility": 88,
   "wisdom": 91,
-  "wins": 57,
+  "wins": 58,
   "losses": 14,
-  "score": 1222,
+  "score": 1239,
   "rank": "Master",
   "lightsaberColor": "blue",
   "avatarSeed": "oring",
   "lightsaberForm": "Form IV: Ataru",
-  "creds": 705,
+  "creds": 695,
   "questProgress": [
     "quest1-b"
   ],
