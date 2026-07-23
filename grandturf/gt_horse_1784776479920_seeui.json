@@ -1,0 +1,49 @@
+{
+  "id": "gt_horse_1784776479920_seeui",
+  "name": "Trust Fund Baby",
+  "gender": "Stallion",
+  "dob": "2021-06-21",
+  "coatColor": "Chestnut",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Mud",
+  "preferredDistance": "Sprint (5-7f)",
+  "runningStyle": "Finisher",
+  "specialTraits": [
+    "Bender",
+    "Turf Specialist"
+  ],
+  "stats": {
+    "speed": 75,
+    "stamina": 77,
+    "acceleration": 67,
+    "temperament": 68,
+    "grit": 87,
+    "startBurst": 62,
+    "finishKick": 64,
+    "cornering": 74,
+    "surfaceAdaptability": 68,
+    "weatherResistance": 89,
+    "focus": 68,
+    "potential": 81,
+    "trainability": 74,
+    "overallRating": 72
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 3,
+    "currentStage": "Prime"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T03:14:39.920Z",
+  "age": 5
+}
