@@ -1,0 +1,31 @@
+{
+  "id": "gt_horse_1784774464522_db0v7",
+  "name": "Test Horse1",
+  "gender": "Mare",
+  "dob": "2021-05-28",
+  "age": 5,
+  "coatColor": "Silver Dapple",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Dirt",
+  "preferredDistance": "Long (11-14f)",
+  "stats": {
+    "speed": 65,
+    "stamina": 80,
+    "acceleration": 71,
+    "temperament": 87,
+    "grit": 76,
+    "overallRating": 76
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T02:41:04.522Z"
+}
