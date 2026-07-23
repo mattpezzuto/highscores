@@ -1,0 +1,50 @@
+{
+  "id": "gt_horse_bred_1784777142531_x4yp0",
+  "name": "Lightning Arrow",
+  "gender": "Colt",
+  "dob": "2026-07-23",
+  "coatColor": "Black",
+  "generation": 3,
+  "sireId": "gt_horse_bred_1784776677609_67wzo",
+  "damId": "gt_horse_1784776667721_3iucx",
+  "sireName": "Trust's Legacy",
+  "damName": "Mammy Potatoe",
+  "preferredTrack": "Mud",
+  "preferredDistance": "Long (11-14f)",
+  "runningStyle": "Front Runner",
+  "specialTraits": [
+    "Bender",
+    "Turf Specialist",
+    "Iron Lung"
+  ],
+  "stats": {
+    "speed": 66,
+    "stamina": 78,
+    "acceleration": 75,
+    "temperament": 82,
+    "grit": 77,
+    "startBurst": 70,
+    "finishKick": 91,
+    "cornering": 73,
+    "surfaceAdaptability": 74,
+    "weatherResistance": 94,
+    "focus": 80,
+    "potential": 92,
+    "trainability": 88,
+    "overallRating": 76
+  },
+  "growth": {
+    "growthRate": "Early Bloomer",
+    "peakAgeYears": 5,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T03:25:42.531Z",
+  "age": 0
+}
