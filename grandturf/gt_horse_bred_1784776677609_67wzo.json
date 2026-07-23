@@ -1,0 +1,50 @@
+{
+  "id": "gt_horse_bred_1784776677609_67wzo",
+  "name": "Trust's Legacy",
+  "gender": "Colt",
+  "dob": "2026-07-23",
+  "coatColor": "Black",
+  "generation": 2,
+  "sireId": "gt_horse_1784776479920_seeui",
+  "damId": "gt_horse_1784776667721_3iucx",
+  "sireName": "Trust Fund Baby",
+  "damName": "Mammy Potatoe",
+  "preferredTrack": "Mud",
+  "preferredDistance": "Sprint (5-7f)",
+  "runningStyle": "Finisher",
+  "specialTraits": [
+    "Bender",
+    "Turf Specialist",
+    "Iron Lung"
+  ],
+  "stats": {
+    "speed": 77,
+    "stamina": 74,
+    "acceleration": 75,
+    "temperament": 82,
+    "grit": 87,
+    "startBurst": 66,
+    "finishKick": 77,
+    "cornering": 76,
+    "surfaceAdaptability": 77,
+    "weatherResistance": 92,
+    "focus": 76,
+    "potential": 91,
+    "trainability": 81,
+    "overallRating": 76
+  },
+  "growth": {
+    "growthRate": "Early Bloomer",
+    "peakAgeYears": 3,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T03:17:57.609Z",
+  "age": 0
+}
