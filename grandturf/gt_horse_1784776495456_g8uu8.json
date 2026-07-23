@@ -1,0 +1,49 @@
+{
+  "id": "gt_horse_1784776495456_g8uu8",
+  "name": "Pappi Ray",
+  "gender": "Mare",
+  "dob": "2023-12-01",
+  "coatColor": "Chestnut",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Mud",
+  "preferredDistance": "Mid-Distance (8-10f)",
+  "runningStyle": "Closer",
+  "specialTraits": [
+    "Focus Anchor",
+    "Bender"
+  ],
+  "stats": {
+    "speed": 76,
+    "stamina": 62,
+    "acceleration": 77,
+    "temperament": 85,
+    "grit": 74,
+    "startBurst": 88,
+    "finishKick": 84,
+    "cornering": 81,
+    "surfaceAdaptability": 66,
+    "weatherResistance": 71,
+    "focus": 81,
+    "potential": 95,
+    "trainability": 91,
+    "overallRating": 76
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 4,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T03:14:55.456Z",
+  "age": 2
+}
