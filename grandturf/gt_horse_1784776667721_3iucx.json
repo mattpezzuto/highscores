@@ -1,0 +1,49 @@
+{
+  "id": "gt_horse_1784776667721_3iucx",
+  "name": "Mammy Potatoe",
+  "gender": "Mare",
+  "dob": "2024-11-14",
+  "coatColor": "Black",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Mud",
+  "preferredDistance": "Long (11-14f)",
+  "runningStyle": "Front Runner",
+  "specialTraits": [
+    "Iron Lung",
+    "Heart of a Champion"
+  ],
+  "stats": {
+    "speed": 65,
+    "stamina": 71,
+    "acceleration": 73,
+    "temperament": 81,
+    "grit": 72,
+    "startBurst": 77,
+    "finishKick": 92,
+    "cornering": 79,
+    "surfaceAdaptability": 80,
+    "weatherResistance": 88,
+    "focus": 92,
+    "potential": 98,
+    "trainability": 84,
+    "overallRating": 75
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 4,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-23T03:17:47.721Z",
+  "age": 1
+}
