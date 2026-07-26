@@ -1,0 +1,47 @@
+{
+  "id": "gt_horse_1785035690150_icd0b",
+  "name": "Purple Racer",
+  "gender": "Mare",
+  "coatColor": "Dappled Gray",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Synthetic",
+  "preferredDistance": "Long (11-14f)",
+  "runningStyle": "Finisher",
+  "specialTraits": [
+    "Late Surge",
+    "Rocket Gate"
+  ],
+  "stats": {
+    "speed": 73,
+    "stamina": 76,
+    "acceleration": 67,
+    "temperament": 74,
+    "grit": 71,
+    "startBurst": 63,
+    "finishKick": 86,
+    "cornering": 64,
+    "surfaceAdaptability": 70,
+    "weatherResistance": 76,
+    "focus": 69,
+    "potential": 92,
+    "trainability": 91,
+    "overallRating": 73
+  },
+  "growth": {
+    "growthRate": "Early Bloomer",
+    "peakAgeYears": 3,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-26T03:14:50.150Z"
+}
