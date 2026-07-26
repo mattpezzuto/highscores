@@ -1,0 +1,47 @@
+{
+  "id": "gt_horse_1785035701665_nd0m9",
+  "name": "Landing Spot",
+  "gender": "Stallion",
+  "coatColor": "Dappled Gray",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Turf",
+  "preferredDistance": "Long (11-14f)",
+  "runningStyle": "Closer",
+  "specialTraits": [
+    "Rocket Gate",
+    "Bender"
+  ],
+  "stats": {
+    "speed": 72,
+    "stamina": 73,
+    "acceleration": 79,
+    "temperament": 91,
+    "grit": 82,
+    "startBurst": 69,
+    "finishKick": 84,
+    "cornering": 74,
+    "surfaceAdaptability": 88,
+    "weatherResistance": 82,
+    "focus": 76,
+    "potential": 90,
+    "trainability": 75,
+    "overallRating": 76
+  },
+  "growth": {
+    "growthRate": "Standard",
+    "peakAgeYears": 3,
+    "currentStage": "Prime"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-26T03:15:01.665Z"
+}
