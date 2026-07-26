@@ -1,0 +1,46 @@
+{
+  "id": "gt_horse_1785035569091_0wlte",
+  "name": "Purple Racer",
+  "gender": "Stallion",
+  "coatColor": "Dappled Gray",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Dirt",
+  "preferredDistance": "Mid-Distance (8-10f)",
+  "runningStyle": "Presser",
+  "specialTraits": [
+    "Turf Specialist"
+  ],
+  "stats": {
+    "speed": 82,
+    "stamina": 80,
+    "acceleration": 87,
+    "temperament": 79,
+    "grit": 69,
+    "startBurst": 67,
+    "finishKick": 93,
+    "cornering": 67,
+    "surfaceAdaptability": 89,
+    "weatherResistance": 82,
+    "focus": 91,
+    "potential": 99,
+    "trainability": 78,
+    "overallRating": 81
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 3,
+    "currentStage": "Prime"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-26T03:12:49.091Z"
+}
