@@ -1,0 +1,46 @@
+{
+  "id": "gt_horse_1785035713624_jjl92",
+  "name": "Meet me in the Middle",
+  "gender": "Stallion",
+  "coatColor": "Dappled Gray",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Turf",
+  "preferredDistance": "Sprint (5-7f)",
+  "runningStyle": "Closer",
+  "specialTraits": [
+    "Bender"
+  ],
+  "stats": {
+    "speed": 64,
+    "stamina": 70,
+    "acceleration": 86,
+    "temperament": 71,
+    "grit": 65,
+    "startBurst": 80,
+    "finishKick": 72,
+    "cornering": 73,
+    "surfaceAdaptability": 78,
+    "weatherResistance": 70,
+    "focus": 89,
+    "potential": 97,
+    "trainability": 85,
+    "overallRating": 73
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 5,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-26T03:15:13.624Z"
+}
