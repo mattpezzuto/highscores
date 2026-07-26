@@ -1,0 +1,46 @@
+{
+  "id": "gt_horse_1785035707986_ajqyj",
+  "name": "Happy Racer",
+  "gender": "Stallion",
+  "coatColor": "Dappled Gray",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Synthetic",
+  "preferredDistance": "Sprint (5-7f)",
+  "runningStyle": "Front Runner",
+  "specialTraits": [
+    "Heart of a Champion"
+  ],
+  "stats": {
+    "speed": 71,
+    "stamina": 69,
+    "acceleration": 79,
+    "temperament": 83,
+    "grit": 71,
+    "startBurst": 63,
+    "finishKick": 85,
+    "cornering": 73,
+    "surfaceAdaptability": 68,
+    "weatherResistance": 79,
+    "focus": 92,
+    "potential": 92,
+    "trainability": 79,
+    "overallRating": 74
+  },
+  "growth": {
+    "growthRate": "Standard",
+    "peakAgeYears": 4,
+    "currentStage": "Prime"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "createdAt": "2026-07-26T03:15:07.986Z"
+}
