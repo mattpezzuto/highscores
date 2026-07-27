@@ -1,0 +1,47 @@
+{
+  "id": "gt_horse_1785119175173_hqaqm",
+  "name": "GitHub Test Sovereign",
+  "gender": "Stallion",
+  "coatColor": "Silver Dapple",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Turf",
+  "preferredDistance": "Long (11-14f)",
+  "runningStyle": "Presser",
+  "specialTraits": [
+    "Turf Specialist"
+  ],
+  "stats": {
+    "speed": 76,
+    "stamina": 77,
+    "acceleration": 79,
+    "temperament": 79,
+    "grit": 73,
+    "startBurst": 81,
+    "finishKick": 67,
+    "cornering": 80,
+    "surfaceAdaptability": 69,
+    "weatherResistance": 67,
+    "focus": 90,
+    "potential": 84,
+    "trainability": 70,
+    "overallRating": 76
+  },
+  "growth": {
+    "growthRate": "Late Bloomer",
+    "peakAgeYears": 5,
+    "currentStage": "Prime"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "trainer_id": "trainer_alpha_99",
+  "createdAt": "2026-07-27T02:26:15.173Z"
+}
