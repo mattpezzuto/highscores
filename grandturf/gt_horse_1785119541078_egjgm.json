@@ -1,0 +1,48 @@
+{
+  "id": "gt_horse_1785119541078_egjgm",
+  "name": "Ring of Fire",
+  "gender": "Stallion",
+  "coatColor": "Roan",
+  "generation": 1,
+  "sireId": null,
+  "damId": null,
+  "sireName": null,
+  "damName": null,
+  "preferredTrack": "Mud",
+  "preferredDistance": "Mid-Distance (8-10f)",
+  "runningStyle": "Closer",
+  "specialTraits": [
+    "Turf Specialist",
+    "Iron Lung"
+  ],
+  "stats": {
+    "speed": 84,
+    "stamina": 63,
+    "acceleration": 64,
+    "temperament": 75,
+    "grit": 82,
+    "startBurst": 88,
+    "finishKick": 81,
+    "cornering": 87,
+    "surfaceAdaptability": 75,
+    "weatherResistance": 75,
+    "focus": 86,
+    "potential": 88,
+    "trainability": 72,
+    "overallRating": 77
+  },
+  "growth": {
+    "growthRate": "Standard",
+    "peakAgeYears": 4,
+    "currentStage": "Juvenile"
+  },
+  "racingRecord": {
+    "starts": 0,
+    "wins": 0,
+    "places": 0,
+    "shows": 0,
+    "earnings": 0
+  },
+  "trainer_id": "Oring",
+  "createdAt": "2026-07-27T02:32:21.078Z"
+}
